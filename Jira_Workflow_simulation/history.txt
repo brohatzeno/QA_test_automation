@@ -1,0 +1,9 @@
+# Calculator Operation History
+This file tracks the history of operations performed by the calculator.
+
+## Operations Log
+- Addition: 5 + 3 = 8
+- Multiplication: 4 * 6 = 24
+- Division: 10 / 2 = 5.0
+- Power: 2 ^ 3 = 8
+- Modulo: 10 % 3 = 1

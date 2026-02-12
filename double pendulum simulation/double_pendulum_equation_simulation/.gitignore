@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Node.js (if you ever use packages)
+node_modules/
+
+# Logs
+*.log
+
+# Build folders (optional)
+dist/
